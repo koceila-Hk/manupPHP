@@ -26,5 +26,7 @@ foreach ($user as $cle => $valeur) {
         Bonjour, je m'appelle <?= $user['prenom'] . ' ' . mb_strtoupper($user['nom']) ?>. <br>
         J'ai <?= $user['age'] ?> ans et je suis <?= $user['profession'] ?>.
     </p>
+
+
 </body>
 </html>
