@@ -7,7 +7,7 @@
 </head>
 <body>
     <form action="post1.php" method="post">
-        <input type="number" name="nombre" id="nombre">
+        <input type="text" name="text" id="text">
         <br>
         <input type="password" name="mot" id="mot">
         <br>

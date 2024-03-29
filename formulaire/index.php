@@ -8,9 +8,9 @@
 <body>
     <h1>REbonjour</h1>
     <form action="traite.php" method="get">
-        <input type="number" name="nombre" id="n">
+        <input type="number" name="nombre" >
         <br>
-        <input type="text" name="message" id="message">
+        <input type="text" name="message" >
         <br>
         <input type="submit" value="Envoyer">
     </form>
